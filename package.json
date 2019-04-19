@@ -1,0 +1,21 @@
+{
+  "name": "avito-car-meaning",
+  "version": "1.0.0",
+  "description": "avito price meaning",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "ayoub Houmir",
+  "license": "Nono",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "express": "^4.16.2",
+    "levenshtein-array": "^2.2.9",
+    "lodash": "^4.17.5",
+    "mathjs": "^3.20.1",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
+}
